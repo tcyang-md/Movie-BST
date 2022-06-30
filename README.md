@@ -48,3 +48,5 @@ Enter Option: q
 | movies100.txt | 100 |
 | movies100k.txt | 100,000 |
 
+## Challenges
+This was my first time using BST and to do it recursively was definitely a challenge. Although I was initially pretty shakey on my recursion, after lots of practice problems online I was able to apply what I had learned to create recursive function.
