@@ -2,7 +2,7 @@
 The program, written in java, reads in a text file with movies and creates a **binary search tree**. The program can search for movies with the exact title, traverse the tree in order, and search for movies beginning with specific characters. All functions were written **recursively**. The movies are inserted in the tree in lexicographic order by the short names of the movies.
 
 ## Instructions
-Download `BSTIndex.java`, `IndexTester.java`, `MovieInfo.java`, and `data.zip` files. Unzip the `data.zip` file and it should contain many different files each containing a different number of movies and their information. To run, `IndexTester.java` takes command line arguments for file containing movie information (`$ java IndexTest.java data/filename.txt`).
+Download `BSTIndex.java`, `IndexTester.java`, `MovieInfo.java`, and `data.zip` files. Unzip the `data.zip` file and it should contain many different files each containing a different number of movies and their information. To run, `IndexTester.java` takes command line arguments for file containing movie information (`$ java IndexTest data/filename.txt`).
 
 ### Example
 ```
